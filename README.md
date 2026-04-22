@@ -1,8 +1,8 @@
-# DP-GB: Differentially Private Granular Ball Classification with Laplace and Exponential Mechanisms — A Comparative Study on Tabular and Image Datasets
+# DP-GB: Differentially Private Granular Ball Classification with Laplace and Exponential Mechanisms 
 
 This repository provides the implementation and experimental code for the paper:
 
-**“DP-GB: Differentially Private Granular Ball Classification with Laplace and Exponential Mechanisms — A Comparative Study on Tabular and Image Datasets.”**
+**“DP-GB: Differentially Private Granular Ball Classification with Laplace and Exponential Mechanisms .”**
 
 ---
 
